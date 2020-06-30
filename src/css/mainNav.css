@@ -1,0 +1,17 @@
+.main-nav{
+  font-weight: 700;
+  /* text-align: right; */
+  list-style: none;
+  
+}
+
+.link-light-bg{
+  text-decoration: none;
+  color: #222;
+}
+
+
+.link-light-bg:hover{
+  color: #222;
+  text-decoration: underline;
+}
